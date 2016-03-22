@@ -2,15 +2,16 @@
     <channel>
         <title><![CDATA[shumanev]]></title>
         <description><![CDATA[shumanev]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/shumanev/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Mar 2016 18:25:26 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 22 Mar 2016 18:27:32 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/shumanev/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefined420ffcfd-f4e0-4c21-b77e-2020f8743c5b/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bd936d22-e214-4db2-a014-3b27a1368726.jpg">]]></description>
+            <link>https://thegrid.ai/shumanev/420ffcfd-f4e0-4c21-b77e-2020f8743c5b/index.html</link>
             <guid isPermaLink="false">420ffcfd-f4e0-4c21-b77e-2020f8743c5b</guid>
-            <pubDate>Tue, 22 Mar 2016 18:25:25 GMT</pubDate>
+            <pubDate>Tue, 22 Mar 2016 18:27:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
