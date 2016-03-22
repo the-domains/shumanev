@@ -1,0 +1,28 @@
+name: shumanev
+favicon: null
+layout_spectrum: 0.3279538673814386
+typography_spectrum: 0.9416964082047343
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.8721138378605247
+  lightness: 0.23703413549810648
+  saturation: 0.8913724792655557
+  rhythmicContrast: 0.23952031577937305
+purpose: []
